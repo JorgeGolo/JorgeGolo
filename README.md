@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JorgeGolo
-- 👀 I’m interested in Laravel, Wordpress, PHP and web development.
-- 🌱 I’m currently learning more POO.
-- 🌱 I like to write and SEO.
-- 💞️ I’m seraching for a job and I've made this GitHub profile to share mi work.
+- 👀 I’ve wqorked withe several open-source solutions: Prestashop, Laravel, Wordpress...
+- 🌱 I’ve ussed some lenguages: PHP, Javascript, C#...
+- 🌱 I like create content and SEO.
+- 💞️ I've made this GitHub profile to share mi work.
 - 📫 How to reach me? Easy -> jorgelogomez@gmail.com // weblikonet@gmail.com
 
 <!---
