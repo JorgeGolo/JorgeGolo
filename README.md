@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JorgeGolo
-- 👀 I’ve worked with several open-source solutions: Prestashop, Laravel, Wordpress, Angular, React, Unity...
-- 🌱 I’ve ussed some lenguages: PHP, Javascript, C#...
-- 🌱 I like to create content, SEO and coding.
+- 👀 I’ve worked with several open-source solutions like Prestashop, Laravel, Wordpress, Angular, React, Unity.
+- 🌱 Coding with some languages: PHP, Javascript, C#, Typescript...
 - 💞️ I've made this GitHub profile to share mi work.
 
 <!---
