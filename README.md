@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Jorge Golo
 
 - 👀 I’ve worked extensively with a wide range of open-source solutions and frameworks, including:
-  - **Prestashop**: Customizing and developing plugins for e-commerce platforms.
-  - **Laravel**: Building robust and scalable backend applications using modern PHP practices.
-  - **WordPress**: Creating custom themes and plugins to meet diverse client needs.
   - **Angular & React**: Developing dynamic and responsive front-end interfaces.
+  - **WordPress**: Creating custom themes and plugins to meet diverse client needs.
+  - **Laravel**: Building robust and scalable backend applications using modern PHP practices.
+  - **Prestashop**: Customizing and developing plugins for e-commerce platforms.
   - **Unity**: Crafting engaging game mechanics and interactive 3D experiences.
 
 - 🌱 I’m fluent in several programming languages and constantly expanding my toolkit:
