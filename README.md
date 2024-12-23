@@ -3,7 +3,7 @@
 - 👀 I’ve worked extensively with a wide range of open-source solutions and frameworks, including:
   - **Angular & React**: Developing dynamic and responsive front-end interfaces.
   - **WordPress**: Creating custom plugins to meet diverse client needs.
-  - **Laravel**: Building robust and scalable backend applications using modern PHP practices.
+  - **Laravel** / **Symfony**: Building robust and scalable backend applications using modern PHP practices.
   - **Prestashop**: Customizing and developing plugins for e-commerce platforms.
   - **Unity**: Crafting engaging game mechanics and interactive 3D experiences.
 
